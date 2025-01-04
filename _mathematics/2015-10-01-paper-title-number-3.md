@@ -3,7 +3,6 @@ title: "2022代数几何(未完成)"
 collection: mathematics
 category: manuscripts
 permalink: /mathematics/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-01-04
 venue: 'Journal 1'
 
