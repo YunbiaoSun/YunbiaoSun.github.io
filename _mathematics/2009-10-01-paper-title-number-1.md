@@ -1,11 +1,11 @@
 ---
-title: "高中生的法式大题(持续更新)"
+title: "给高中生的法式大题(持续更新)"
 collection: mathematics
 category: manuscripts
 permalink: /mathematics/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '111.'
 date: 2025-01-4
 paperurl: 'http://YunbiaoSun.github.io/files/1w1n.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+本讲义的特色是讲一个问题拆分为了十数小问, 旨在深入浅出, 循循善诱带领学生解决一个困难问题, 通过不断启发, 帮助学生提高数学思维能力. 做教育, 而不是做筛选. 
