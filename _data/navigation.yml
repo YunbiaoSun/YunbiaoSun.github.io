@@ -6,7 +6,7 @@
 
 main:
   - title: "数学"
-    url: /publications/
+    url: /mathematics/
 
   - title: "汉语言文学"
     url: /talks/    
