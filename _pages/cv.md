@@ -29,8 +29,8 @@ Work experience
 Skills
 ======
 * Mathematics(Graduate Level)
- * Commutative Algebras & Homological Algebras
- * Birational Algebraic Geometry, especially \textbf{Flip conjecture}
+  * Commutative Algebras & Homological Algebras
+  * Birational Algebraic Geometry, especially \textbf{Flip conjecture}
 * Mathematics(High School Level)
   * Shanghai Mathematics Final Question(21 in college entrance examination)
   * Chinese High School Mathematics League Tutoring
