@@ -87,6 +87,8 @@ mathematics_category:
     title: '持续更新'
   tbc:
     title: '未完待续'
+  finished:
+    title: '已完结'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
