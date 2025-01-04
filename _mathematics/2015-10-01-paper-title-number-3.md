@@ -1,7 +1,7 @@
 ---
 title: "2022代数几何(未完成)"
 collection: mathematics
-category: manuscripts
+category: tbc
 permalink: /mathematics/2015-10-01-paper-title-number-3
 date: 2025-01-04
 venue: 'Journal 1'
