@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+抱歉, 我觉得CV还是用英文比较好
 
 Education
 ======
@@ -30,7 +31,7 @@ Skills
 ======
 * Mathematics(Graduate Level)
   * Commutative Algebras & Homological Algebras
-  * Birational Algebraic Geometry, especially \textbf{Flip conjecture}
+  * Birational Algebraic Geometry, especially flip conjecture
 * Mathematics(High School Level)
   * Shanghai Mathematics Final Question(21 in college entrance examination)
   * Chinese High School Mathematics League Tutoring
