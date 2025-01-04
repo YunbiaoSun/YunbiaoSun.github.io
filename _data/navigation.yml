@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "数学 NOTE"
+  - title: "数学"
     url: /publications/
 
-  - title: "汉语言文学 NOTE"
+  - title: "汉语言文学"
     url: /talks/    
 
-  - title: "哲学 NOTE"
+  - title: "哲学"
     url: /teaching/    
     
   - title: "个人文字"

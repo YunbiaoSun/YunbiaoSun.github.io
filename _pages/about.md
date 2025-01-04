@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "我们能认识什么?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+个人简介
+====
+欢迎来到孙沄滮的个人主页! 我是孙沄滮, 硕士毕业于中国科学院数学与系统科学研究院数学研究所, 专业为基础数学, 方向为代数几何, 曾经学习过McKay conjecture与 flip conjecture, 现在在寻求上海高中数学老师的工作. 除了数学以外, 我对文艺学情有独钟, 有更加深入学习的想法, 创立本主页的动机是希望将自己关于数学, 汉语言文学等学科相关的 note 共享, 相关链接可以在本页最上方一栏进行跳转, 对应页面中会对项目进行说明, 我的邮箱是sunyunbiao@amss.ac.cn, 若有任何想法欢迎交流!
 
 A data-driven personal website
 ======
