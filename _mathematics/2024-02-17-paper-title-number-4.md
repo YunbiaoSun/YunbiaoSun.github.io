@@ -1,8 +1,8 @@
 ---
 title: "自编高中法式大题(持续更新)"
-collection: publications
+collection: mathematics
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /mathematics/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'

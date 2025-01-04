@@ -260,7 +260,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: mathematics
     values:
       layout: single
       author_profile: true
