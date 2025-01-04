@@ -22,7 +22,7 @@ repository               : "YunbiaoSun.github.io"
 author:
   # Biographic information
   avatar           : "face.png"
-  name             : "孙沄滮(Yunbiao Sun)"
+  name             : "孙沄滮"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Shanghai"
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : 满纸荒唐言
 
 # Publication Category - The following the list of publication categories and their headings
 mathematics_category:
@@ -84,6 +84,8 @@ mathematics_category:
     title: 'Conference Papers'
   updates:
     title: '持续更新'
+  tbc:
+    title: '未完待续'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
