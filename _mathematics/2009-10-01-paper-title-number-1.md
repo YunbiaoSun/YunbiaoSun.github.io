@@ -10,20 +10,3 @@ citation: '引用请注明出处'
 ---
 
 本讲义的特色是讲一个问题拆分为了十数小问, 旨在深入浅出, 循循善诱带领学生解决一个困难问题, 通过不断启发, 帮助学生提高数学思维能力. 做教育, 而不是做筛选.
-<a ref="https://YunbiaoSun.github.io/files/1w1n.pdf"><u><i><b>black italic underline</b></i></u></a>
-[123](https://YunbiaoSun.github.io/files/1w1n.pdf)
-- list 1
-- list 2
-- m
-sf
-- list 4
-
-<p>You can reach Michael at:</p>
-
-<ul>
-  <li><a href="https://example.com">Website</a>
-  
-  anoth</li>
-  <li><a href="mailto:m.bluth@example.com">Email</a></li>
-  <li><a href="tel:+123456789">Phone</a></li>
-</ul>
