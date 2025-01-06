@@ -90,6 +90,20 @@ mathematics_category:
   finished:
     title: '已完结'
 
+talks_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: '持续更新'    
+  conferences:
+    title: 'Conference Papers'
+  updates:
+    title: '持续更新'
+  tbc:
+    title: '未完待续'
+  finished:
+    title: '已完结'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
