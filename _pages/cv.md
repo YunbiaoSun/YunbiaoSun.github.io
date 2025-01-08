@@ -30,27 +30,27 @@ Work experience
 Skills
 ======
 * Mathematics(Graduate Level)
-  * Commutative Algebras & Homological Algebras
+  * Commutative Algebra & Homological Algebra
   * Birational Algebraic Geometry, especially flip conjecture
 * Mathematics(High School Level)
-  * Shanghai Mathematics Final Question(21 in college entrance examination)
+  * Shanghai Mathematics Final Question(Question 21 in college entrance examination)
   * Chinese High School Mathematics League Tutoring
 * Literary Theory
   * I am developping this skill!
 
-Publications
+Mathematics
 ======
   <ul>{% for post in site.mathematics reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Literary
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Phylosophy
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
