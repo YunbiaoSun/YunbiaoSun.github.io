@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* Autumn 2024: Trainee Teacher
+* Autumn 2024: Intern Teacher
   * Nanyang Model High School
-  * Duties include: Batch job and exercise lessons
+  * Duties include: Evaluate students and Deliver lessons
   * Supervisor: Zhenhua Jin
 
-* Summer 2024: Trainee Teacher
+* Summer 2024: Intern Teacher
   * Shanghai High School International Division
-  * Duties include: Teaching
+  * Duties include: Deliver lessons
   * Supervisor: Shan Liu & Mingxin Zhang 
   
 Skills
@@ -33,7 +33,7 @@ Skills
   * Commutative Algebra & Homological Algebra
   * Birational Algebraic Geometry, especially flip conjecture
 * Mathematics(High School Level)
-  * Shanghai Mathematics Final Question(Question 21 in college entrance examination)
+  * Shanghai Mathematics Final Question(Question 21st in college entrance examination)
   * Chinese High School Mathematics League Tutoring
 * Literary Theory
   * I am developping this skill!
@@ -50,12 +50,6 @@ Literary
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Phylosophy
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
